@@ -5,7 +5,7 @@ import random
 import os
 import time
 from datetime import date
-from main import code_editor
+from main import code_editor  
 from application import text_editor
 
 
